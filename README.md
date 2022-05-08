@@ -8,5 +8,5 @@ Incluimos un pdf de apuntes incorporados
 ## Manager IT
 ### Curso de liderazgo de equipos
 Elementos importantes a la hora de liderar grupos. Curso de dos horas.
-Pdf de apuntes más otro con el certificado de finalizado
-Tuve que hacer un examen para que me lo ceertificaran 
+Pdf de apuntes más otro con el certificado de finalizado.
+Tuve que hacer un examen para que me lo certificaran. 
