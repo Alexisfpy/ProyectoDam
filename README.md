@@ -1,5 +1,6 @@
 # ProyectoDam
 Dos carreras intensisvas de IA:Asisitentes virtuales y Manager IT
+
 ## Inteligencia Artificial
 ### Taller de introducción a la Inteligencia Artificial
 Base fundamental de la IA con definiciones y palabras técnicas.
@@ -30,5 +31,15 @@ Las 7 c's de la escritura técnica:
 - Consistente
 - Completa
 - Coherente 
+
+### Cómo implementar Management 3.0
+Management 3.0 es una forma de pensar combinada con una colección de juegos, herramientas y prácticas es constante cambio, cuyo objetivo es ayudar a cualquier trabajador a gestionar la organización. \
+La gestión es una resposabilidad grupal. \
+Mantenere la felicidad de los trabajadores es una prioridad. \
+La idea de que el 95% dek redimineto de una organización es el resultado de todo el sistema, no del individuo.
+Una forma para implementar Management es por medio de juegos como "Kudo cards". Es una manera de romper las limitaciones jerárquicas y de animar a todos a ofrecer feedback positivo.
+
+
+
 
 
