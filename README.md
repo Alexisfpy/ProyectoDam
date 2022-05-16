@@ -28,5 +28,5 @@ Las 7 c's de la escritura técnica:
 - Cohesiva
 - Consistente
 - Completa
-- Coherente
+- Coherente \
 Como ejemplos nos enseñan la documentación extensa de Microsoft, lo bien organizada que está.
