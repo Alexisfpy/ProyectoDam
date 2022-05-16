@@ -21,6 +21,7 @@ Se habla de la documentación técnica y sus tipos.
 La documentación no debe vender el producto, sino enseñar a cómo usarlo.
 Es importante la documentación por que ayuda al equipo, reduce 
 Para una documentación correcta, debe de tener una proporción de capturas, vídeos y textos explicativos. Muchos vídeos o mucho texto puede llegar a ser tedioso.
+Como ejemplos nos enseñan la documentación extensa de Microsoft, lo bien organizada que está.
 Las 7 c's de la escritura técnica:
 - Clara
 - Concreta
@@ -28,5 +29,6 @@ Las 7 c's de la escritura técnica:
 - Cohesiva
 - Consistente
 - Completa
-- Coherente \
-Como ejemplos nos enseñan la documentación extensa de Microsoft, lo bien organizada que está.
+- Coherente 
+
+
