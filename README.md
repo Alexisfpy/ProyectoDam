@@ -39,6 +39,20 @@ Mantenere la felicidad de los trabajadores es una prioridad. \
 La idea de que el 95% dek redimineto de una organización es el resultado de todo el sistema, no del individuo.
 Una forma para implementar Management es por medio de juegos como "Kudo cards". Es una manera de romper las limitaciones jerárquicas y de animar a todos a ofrecer feedback positivo.
 
+### Curso de gestión de equipos con Management 3.0
+Aprendemos a gestionar los equipos de alto rendimiento diferenciando entre líder, jefe y manager.
+Práctias Management 3.0
+- Motivaciones intrínsecas y extrínsecas	4
+- Mejorar la comunicación y la compresión	5
+- Empoderar a los trabajadores con límites claros	5
+- Define la cultura compartiendo historias	6
+- Conseguir tiempo para la exploración	6
+- Medir el rendimiento	7
+- Descubre el compromiso real de los trabajadores	7
+- Las diez motivaciones intrínsecas
+
+
+
 
 
 
