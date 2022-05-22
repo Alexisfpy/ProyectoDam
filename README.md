@@ -51,6 +51,12 @@ Práctias Management 3.0
 - Descubre el compromiso real de los trabajadores	
 - Las diez motivaciones intrínsecas
 
+Incluimos pdf con algunos apuntes del tema
+
+### Curso de Design Thinking
+Una metodología o proceso que permite o facilita la solución de problemas, el diseño y desarrollo de productos y servicios de todo tipo utilizando para ello equipos altamente motivados
+Incorporamos un pdf con apuntes básicos. Definción, para que se usa y sus principales técnicas y procesos.
+
 
 
 
