@@ -42,13 +42,13 @@ Una forma para implementar Management es por medio de juegos como "Kudo cards". 
 ### Curso de gestión de equipos con Management 3.0
 Aprendemos a gestionar los equipos de alto rendimiento diferenciando entre líder, jefe y manager.
 Práctias Management 3.0
-- Motivaciones intrínsecas y extrínsecas	4
-- Mejorar la comunicación y la compresión	5
-- Empoderar a los trabajadores con límites claros	5
-- Define la cultura compartiendo historias	6
-- Conseguir tiempo para la exploración	6
-- Medir el rendimiento	7
-- Descubre el compromiso real de los trabajadores	7
+- Motivaciones intrínsecas y extrínsecas	
+- Mejorar la comunicación y la compresión	
+- Empoderar a los trabajadores con límites claros	
+- Define la cultura compartiendo historias	
+- Conseguir tiempo para la exploración	
+- Medir el rendimiento	
+- Descubre el compromiso real de los trabajadores	
 - Las diez motivaciones intrínsecas
 
 
