@@ -57,6 +57,25 @@ Incluimos pdf con algunos apuntes del tema
 Una metodología o proceso que permite o facilita la solución de problemas, el diseño y desarrollo de productos y servicios de todo tipo utilizando para ello equipos altamente motivados
 Incorporamos un pdf con apuntes básicos. Definción, para que se usa y sus principales técnicas y procesos.
 
+### Curso Management 3.0
+Principios de Management 3.0
+Visión orientada a laspersonas en una estructuraorganizativa pensada para ello. 
+- Energizar a las personas
+- Empoderar a los equipos
+- Alinear las restricciones
+- Desarrollar competencias
+- Estructuras el crecimiento
+- Mejorar todo
+
+Gestión de cambio
+- Bailar con el sistema(Modelo PDCA)
+- Ocuparse de las personas(Modelo ADKAR)
+- Estimula la red ante el cambio
+- Cambiar el entorno(Modelo 5 ls)
+
+Incluimos un pdf con pequeño contenido de apuntes, especificando los apartados dados en el curso
+
+
 
 
 
