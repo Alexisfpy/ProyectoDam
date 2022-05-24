@@ -145,6 +145,77 @@ La emoción es una reacción física ante un estímulo percibido y aparecen de f
 
 Un sentimiento es la interpretación de cómo se experimentan las emociones. 
 
+### Curso Fundamentos de Lean Change Management
+
+Lean Change Management es Framework de gestión del cambio creado por Jason Little, que tiene sus bases en
+los valores y principios Lean y Agile y que además utiliza herramientas y técnicas
+de otros métodos como Lean Startup y Design Thinking. \
+Es también una aproximación sistémica, basada en la co-creación y experimentación, a la gestión del cambio. Entiende el cambio como un
+movimiento social. /
+Tiene como fundamental 4 pilares:
+- Generar una visión y propósito de cambio
+- Co-creación y motivación intrínseca
+- Alineamiento y métricas de impacto
+- Usamos el ciclo Lean Change Management
+
+#### Coach vs Consultor de cambio
+Consultor: asume que es unexperto que sabe cómo llevar a cabo el cambio, y dicta los pasos a seguir y el camino a recorrer. /
+Coach: asume que es el sistema el que sabe cómo afrontar el cambio, y le ayuda a descubrir y realizar su propio camino. /
+
+#### Modelo cultural de Schneider
+Es un modelo cultural que nos va a permitir, mediante un plan y el establecimiento de quiénes somos y quiénes queremos llegar a ser, en términos de cultura, todo ese roadmap de transformación cultural y ese plan de transformación cultural a llevar a cabo.
+
+#### Respuestas vs resistencia al cambio
+Existen tantas respuestas al cambiocomo personas y sistemas. \
+La resistencia es solo una de las posibles respuestas al cambio.Hay respuestas positivas, que podremos usar en favor del cambio
+
+#### El cambio como movimiento social
+A primeras los cambios leves se mantienen hasta llegar a un límite de caos conocido como un cambio extremo. Con el tiempo este cambio se integra y se hace ameno, volviéndose más normativo y establilizando lo cotinidiano, como un movimiento social.
+
+#### Modelo ADKAR
+- Awareness (consciencia)
+- Desire (deseo)
+- Knowledge (conocimiento)
+- Ability (habilidad)
+- Reinforcement (Reforzamiento)
+
+ Podemos utilizarlo como assessment para conocer la predisposición al cambio de una persona o sistema
+
+#### Propuesta de valor
+Valor es lo que quiere tu usuario. \
+La propuesta de valor está basada en la observación, empatía ycomprensión del problema que vas a resolver. \
+Nos centramos en el usuario y sus necesidades, no en una idea nuestra. \
+
+#### Experimentos como propuestas de valor
+- Empatiza: entiende al sistema, qué le preocupa, qué le motiva, cuál es su cultura…
+- Define: construye un punto de vista basado en el sistema. Que el propio sistema defina su solución > coaching
+- Prioriza: hipótesis que podamos testear en 2-4 semanas, para iterar y aprender; coste-impacto equilibrado, grado de disrupción
+- Experimenta: introduce el experimento en el sistema
+- Aprende: no es tan importante si funciona o no el experimento, como la cantidad de aprendizaje que nos permita obtener
+
+#### Modelo Ciclo Lean Change Management
+##### Insights
+Es el conocimiento que tenemos sobre el sistema. Algunos ejemplos de insights podrían ser:
+Early adopters y laggards / Movers y Stoppers
+- Cultura AS IS
+- Predisposición al cambio ADKAR
+- Datos del mapa de empatía
+- Otros: estructura organizacional, contexto socioeconómico, éxitos y fracasos previos, etc.
+
+Este conocimiento va aumentando según vamos introduciendo experimentos en el sistema, por lo que las insights van cambiando con el tiempo.
+##### Opciones
+Son todas las propuestas de valor con las que iremos generando la
+transformación. Deben ser concretas, accionables y con cierto grado de
+disrupción. Ejemplos:
+- Crear una dinámica de intercambio de roles manager-empleado
+- Hacer un “Erasmus” de jefes de distintos departamentos
+- Impulsar un concurso de errores en el área
+
+Por cada caso/reto, generaremos la mayor cantidad de opciones posible. Después, priorizaremos por coste-impacto y grado de disrupción.
+
+##### Experimentos
+Las opciones más prioritarias pasarán a ser experimentos cuandoformulemos la hipótesis.
+
 
 
 
