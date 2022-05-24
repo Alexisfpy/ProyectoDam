@@ -109,6 +109,45 @@ Capaz de tomar decisiones adecuadas:
 - El proceso de toma de decisiones integra lo racional y lo emocional.
 - Las emociones pueden impedirnos tomar decisiones (darse cuenta de los factores emocionales en cada decisión para que sea adecuada) 
 
+"Cuanto más abiertos estemos a nuestros propios sentimientos, mejor podremos leer los de los demás."
+
+#### El valor de ser emocionalmente inteligente
+A partir las emociones generadas en ti y como las gestionas,aparecen 4 pilares de la inteligencia emocional: 
+- Autoconciencia: la habilidad de reconocer e identificar las emociones en ti mismo, así como su origen.
+- Autocontrol: tu capacidad de controlar los impulsos y retrasar la recompensa inmediata. 
+-  Empatía: la habilidad para conectar con las emociones y motivos de los demás.
+-  Habilidades sociales:la capacidad de relacionarse satisfactoriamente con los demás, gestionar conflictos, comunicarte claramente e influir sobre las personas.
+
+#### 10 pasos para desarrollar la Inteligencia Emocional
+Los siguiente pasos puede servir de ayuda para poder desarrollarun sana Inteligencia emocional: 
+- Detectar la emoción que hay detrás de tus actos 
+- Vocabulario emocional (verbalizar) 
+- No emitir juzgar en función de los sentimientos
+- Lenguaje corporal 
+- Control sobre los pensamientos (surgidos de la emoción)
+- Ponte en el lugar del otro (empatía)
+- Diario emocional (autoconocimiento) 
+- Asertividad al expresar tus emociones 
+- Practicidad (llevar a cabo conductas) 
+
+#### Abordando nuestro mundo emocional
+El mundo de las emociones es el puente que une el mundo material con el espiritual. \
+Las emociones son nuestra conexión con la mente y la reacción física ante un estímulo percibido por nuestros sentidos. \
+Un estado emocional equilibrado genera en el organismo una predisposición a actuar de manera positiva y preparada para el futuro.
+
+#### Emociones y sentimientos
+La emoción es una reacción física ante un estímulo percibido y aparecen de forma súbita y son de carácter temporal. Se distinguen 6 emociones universales. 
+- Cólera
+- Miedo
+- Tristeza
+- Amor
+- Alegría
+
+Un sentimiento es la interpretación de cómo se experimentan las emociones. 
+
+
+
+
 
 
 
