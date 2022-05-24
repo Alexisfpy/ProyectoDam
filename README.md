@@ -76,6 +76,19 @@ Gestión de cambio
 Incluimos un pdf con pequeño contenido de apuntes, especificando los apartados dados en el curso
 
 
+### Inteligencia Emocional
+Diferenciamos 3 componentes de la excelencia laboral
+- Capacidad intelectual: Es el potencial o aptitudes intelectuales cognitivas y el procesamiento de los datos abstractos. Son las habilidades necesarias para realizar tareas mentales (el saber). Existen diferentes tipos de capacidades:
+• Memoria
+• Vocabulario
+• Pensamiento creativo 
+
+- Pericia: Habilidades prácticas relacionadas con el trabajo en sí mismo (el saber hacer). Conformada por la suma del conocimiento especializado y la experiencia que adquirimos con la práctica de nuestro trabajo. Es la aplicación de nuestros conocimientos adquiridos a un determinado fin y la mejora de éstos a lo largo del tiempo. 
+- Inteligencia Emocional: Es la capacidad humana de conocer e interpretar los sentimientos propios y ajenos para encaminar adecuadamente el desarrollo personal y profesional (el saber ser). Ayuda aconocerse a uno mismo, saber cómo se  siente y gestionar esos sentimientos/emociones de una manera correcta. "Es muy importante entender que la inteligencia emocional no es lo opuesto a la inteligencia, no es el triunfo del corazón sobre la cabeza, es la intersección de ambas"
+
+
+
+
 
 
 
