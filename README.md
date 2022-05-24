@@ -86,6 +86,31 @@ Diferenciamos 3 componentes de la excelencia laboral
 - Pericia: Habilidades prácticas relacionadas con el trabajo en sí mismo (el saber hacer). Conformada por la suma del conocimiento especializado y la experiencia que adquirimos con la práctica de nuestro trabajo. Es la aplicación de nuestros conocimientos adquiridos a un determinado fin y la mejora de éstos a lo largo del tiempo. 
 - Inteligencia Emocional: Es la capacidad humana de conocer e interpretar los sentimientos propios y ajenos para encaminar adecuadamente el desarrollo personal y profesional (el saber ser). Ayuda aconocerse a uno mismo, saber cómo se  siente y gestionar esos sentimientos/emociones de una manera correcta. "Es muy importante entender que la inteligencia emocional no es lo opuesto a la inteligencia, no es el triunfo del corazón sobre la cabeza, es la intersección de ambas"
 
+Con la Inteligencia Emocional aprendemos a gestionar nuestras emociones y sentimientos (el saber ser). Son el 99% de las decisiones. \
+Con el Coeficiente Intelectual medimos las habilidades necesarias para realizar tareas mentales (el saber). Medimos la Inteligencia racional. \
+Está demostrado que del 10 al 20% del éxito profesional se debe al coeficiente intelectual (Inteligencia Racional) y el resto a la Inteligencia Emocional.
+
+#### Relación entre la razón y la emoción
+Los procesos de la mente racional (razón) requieren de un análisis de las diferentes opciones antes de la toma de una decisión. Es nuestra parte analítica y empírica, basada en hechos puros. \
+Las emociones son necesarias para el proceso cognitivo humano, entre otras cosas porque propician la toma de decisiones de forma rápida y automática en situaciones que se refieren al día a día de las personas, actuando como disparador. \
+Un ejemplo de este comportamiento automático podría ser la rapidez con que podemos sortear un accidente de tráfico, lo que llamamos rapidez de reflejos, y cuyo disparador en este caso sería el miedo. Sin este disparador emocional y estos mecanismos automáticos en la toma de decisiones, si sólo pudiésemos disponer de la consciencia racional, que necesita evaluar las diferentes opciones, sin duda nos habríamos estrellado. 
+
+#### Persona emocionalmente inteligente
+Capaz de controlar sentimientos y emociones:
+• Sabe encontrar el equilibrio entre expresión y control
+• Sabe esperar
+• Tolera la frustración y es capaz de demorar gratificaciones 
+
+Empática:
+• Sabe ponerse en el lugar del otro
+• Capta sus emociones aunque no las exprese en palabras (utilizar comunicación no-verbal) 
+
+Capaz de tomar decisiones adecuadas:
+• El proceso de toma de decisiones integra lo racional y lo emocional.
+• Las emociones pueden impedirnos tomar decisiones (darse cuenta de los factores emocionales en cada decisión
+para que sea adecuada) 
+
+
 
 
 
