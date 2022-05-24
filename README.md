@@ -97,18 +97,17 @@ Un ejemplo de este comportamiento automático podría ser la rapidez con que pod
 
 #### Persona emocionalmente inteligente
 Capaz de controlar sentimientos y emociones:
-• Sabe encontrar el equilibrio entre expresión y control
-• Sabe esperar
-• Tolera la frustración y es capaz de demorar gratificaciones 
+- Sabe encontrar el equilibrio entre expresión y control
+- Sabe esperar
+- Tolera la frustración y es capaz de demorar gratificaciones 
 
 Empática:
-• Sabe ponerse en el lugar del otro
-• Capta sus emociones aunque no las exprese en palabras (utilizar comunicación no-verbal) 
+- Sabe ponerse en el lugar del otro
+- Capta sus emociones aunque no las exprese en palabras (utilizar comunicación no-verbal) 
 
 Capaz de tomar decisiones adecuadas:
-• El proceso de toma de decisiones integra lo racional y lo emocional.
-• Las emociones pueden impedirnos tomar decisiones (darse cuenta de los factores emocionales en cada decisión
-para que sea adecuada) 
+- El proceso de toma de decisiones integra lo racional y lo emocional.
+- Las emociones pueden impedirnos tomar decisiones (darse cuenta de los factores emocionales en cada decisión para que sea adecuada) 
 
 
 
