@@ -1,5 +1,5 @@
 # ProyectoDam
-Dos carreras intensisvas de IA:Asisitentes virtuales y Manager IT
+Dos carreras intensisvas de IA:Asisitentes virtualesy Manager IT,  mas cursos a complementar.
 
 ## Inteligencia Artificial
 ### Taller de introducción a la Inteligencia Artificial
@@ -216,7 +216,18 @@ Por cada caso/reto, generaremos la mayor cantidad de opciones posible. Después,
 ##### Experimentos
 Las opciones más prioritarias pasarán a ser experimentos cuandoformulemos la hipótesis.
 
+## Cursos Complementar
+### Herramientas avanzadas para búsquedas OSINT
+En este curso aprenderemos a usar fuentes y herramientas iteligentes orientadas a la búsqueda de información de personas o empresas utilizando fuentes de acceso público como internet, redes sociales, buscadores, foros, fotografías, wikis, bibliotecas online, conferencias, metadatos, etc. \
+El OSINT es una eficaz herramienta para recopilar todo tipo de información, la cual puede ser utilizada para tareas como realización de perfiles de seguridad, estudios psicológicos, evaluar tendencias de mercado, auditorías en temas de seguridad de la información o conocer sobre la identidad digital y reputación online de personas, entre otras. \
 
+Implementamos un pdf donde pondremos  en práctica  las herramientas de:
+- Maltengo: Es un software enfocado principalmente hacia el análisis forense y desarrollado para hacer más propicio el análisis de enlaces y la minería de datos a partir de dominios IPs, emails, teléfonos, ubicaciones geográficas… es decir, el punto de partida de una investigación. \
+Trae incorporado esta herramienta Kali Linux.
+- OSINT Framework : Es un repositorio online que contiene multitud de recursos para llevar a cabo búsquedas en fuentes de información abierta.
+- Yandex : Potencia en imágenes de búsqueda .Tiene bastante inteligencia artificial en imágenes
+
+- Webmii : Buscador de personas , introducimos nombre y apellido de la persona que estamos buscando y nos aparece toda la información de dicha persona
 
 
 
