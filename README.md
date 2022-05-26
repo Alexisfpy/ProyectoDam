@@ -229,6 +229,13 @@ Trae incorporado esta herramienta Kali Linux.
 
 - Webmii : Buscador de personas , introducimos nombre y apellido de la persona que estamos buscando y nos aparece toda la información de la concidencia de de dichas personas.
 
+## Autenticación Biométrica con Android 
+En este taller aprendemos a incorporar la autenticación biométrica dactilar (huella) y permanecia de datos con SharedPreferences . \
+Aplicación básica hecha en Kotlin. \
+Incorporamos el código de esta aplicación y la apk donde podremos instalarla en nuestro móvil y probarla. \
+Utilizamos una librería ya creada por android y la incorporamos.
+
+
 
 
 
