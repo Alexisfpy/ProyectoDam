@@ -232,8 +232,27 @@ Trae incorporado esta herramienta Kali Linux.
 ## Autenticación Biométrica con Android 
 En este taller aprendemos a introducir la autenticación biométrica dactilar (huella) y permanencia de datos con SharedPreferences . \
 Aplicación básica hecha en Kotlin. \
-Aportamos el código de esta aplicación y la apk donde podremos instalarla en nuestro móvil y probarla. \
-Utilizamos una librería ya creada por android y la incorporamos.
+Implementamos el código de esta aplicación y la apk donde podremos instalarla en nuestro móvil y probarla. \
+Utilizamos una librería biomietric ya creada por android y la incorporamos.
+
+## Procesamiento de datos en tiempo real con Apache Nifi
+
+### Flujo de datos (Dataflow)
+Movimiento de datos/contenidos de un origen a un destino. \
+Los datos pueden ser CSV, JSON, XML, HTTP, imagen, video, etc…
+
+### Apache Nifi
+- Proyecto de Apache diseñado para automatizar el movimiento de datos.
+- Permite operaciones de extracción, transformación y carga de datos.
+- Incorpora Interfaz web de Apache Nifi. 
+- Diseñar y configurar flujos de datos de forma visual.
+- Arrancar y para los procesos del flujo de datos.
+- Monitorizar el estado de los procesos y los posibles errores que se produzcan. 
+
+Se descarga en la página oficial [Link]([(https://nifi.apache.org/download.html "Apache Nifi")
+
+
+
 
 
 
