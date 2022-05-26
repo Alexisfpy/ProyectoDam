@@ -249,7 +249,7 @@ Los datos pueden ser CSV, JSON, XML, HTTP, imagen, video, etc…
 - Arrancar y para los procesos del flujo de datos.
 - Monitorizar el estado de los procesos y los posibles errores que se produzcan. 
 
-Se descarga en la página oficial [Link]([(https://nifi.apache.org/download.html "Apache Nifi")
+Se descarga en la página oficial [Apache Nifi](https://nifi.apache.org/download.html)
 
 
 
