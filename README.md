@@ -251,6 +251,74 @@ Los datos pueden ser CSV, JSON, XML, HTTP, imagen, video, etc…
 
 Se descarga en la página oficial [Apache Nifi](https://nifi.apache.org/download.html)
 
+## Criptogrfía Simétrica y Asimétrica en la práctica
+La criptografía son mensajes inteligentes para receptores no autorizados ,si alguien lo intercepta, que no sepa utilizarlo. Garantiza la confidencialidad de la información. \
+Los jeroglíficos fueron los primeros, utilizando el método de sustitución. Cabe destacar la escítala, utilizada por los espartanos con el método de transposición. \
+El cifrado de César fue muy importante también. Lo utilizaban los romano con el método de sustitució. Desplzaban el alfabeto en x posiciones.
+
+### Criptografía Actual
+#### Criptografía Simétrica o clave privada
+El receptor y el emisor conocen la clave para cifrar/descifrar el mensaje. \
+Ventajas
+- Eficiente en grupos reducidos 
+- Sencillos de utilizar
+- Eficientes (poco tiempo cifrar/descifrar) 
+
+Desventajas
+- Posible intercambio de claves por medios no seguros
+- Gran cantidad de claves a memorizar/almacena
+
+Utilizamos como práctica la herramienta [Izarc](https://izarc.es/descargar). En el pdf subido mostramos las inctrucciones del uso.
+
+#### Crptografía clave Asimétrica
+El receptor y el emisor disponen de una clave pública y otra privada para cifrar/descrifrar el mensaje.
+Clave matemáticamente relacionadas. Lo que cifras con una, solo lo puedes descifrar con la otra. \
+Imposible deducir la clave privada con la pública. \
+Ventajas
+- ○ Menor número de claves
+- Utilización medios no seguros
+- Firma digital (no repudio)
+
+Desventajas
+- Poco eficientes
+- Proteger clave privada (con criptografía simétrica)
+- Importante backup de la clave privada
+
+##### Criptografía Función Hash
+- Algoritmo (operaciones matemáticas, lógicas,...)
+- Transforma unos datos en una serie de caracteres con longitud fija: Genera un valor a partir de una cadena de texto utilizando una función matemática e identifica de forma única a un fichero, disco duro,.. Es decir, asignar un dni único a unos datos.
+- Protege la integridad de los datos
+- Principales Algoritmos : MD5, SHA
+- Reglas : Números generados con un mismo método tienen igual tamaño e imposible reconstruir texto base a partir del Hash. Computacionalmente sencillo de calcular 
+- Ejemplo: Un sospechoso a la hora de interceptar su ordenador, se le hace un código hash para que a la hora de llevarlo al juez se compare. Si el código hash coincide es que no se a modificado el disco duro , si cambia,  es que los datos fueron manipulados.
+
+Herremientas Hash Generato, las hay tanto para decarga u online donde nos ofrecen estos servicios de crear los códigos Hash.  \
+Ponemos en práctica motrado en el pdf un generador de clave hash para un archivo.
+
+##### Firma Digital
+La firma digital lo que hace es coger los datos y los aplica una función hash. \
+Para generar una firma digital utilizamos la aplicación [Gpg4win](https://gpg4win.org/thanks-for-download.html) donde incorpora la herramiento Kleopatra que es la que utilizaremos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
