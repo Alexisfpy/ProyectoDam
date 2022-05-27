@@ -284,6 +284,8 @@ Desventajas
 - Proteger clave privada (con criptografía simétrica)
 - Importante backup de la clave privada
 
+Herramienta GnuPg para el cifrado asimétrico de Kali Linux
+
 ##### Criptografía Función Hash
 - Algoritmo (operaciones matemáticas, lógicas,...)
 - Transforma unos datos en una serie de caracteres con longitud fija: Genera un valor a partir de una cadena de texto utilizando una función matemática e identifica de forma única a un fichero, disco duro,.. Es decir, asignar un dni único a unos datos.
