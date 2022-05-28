@@ -284,7 +284,9 @@ Desventajas
 - Proteger clave privada (con criptografía simétrica)
 - Importante backup de la clave privada
 
-Herramienta GnuPg para el cifrado asimétrico de Kali Linux
+Herramienta GnuPg para el cifrado asimétrico. Viene incorporada en Kali Linux. \
+Nos proporciona tanto cifrado simétrico, asimétrico y firma digital. \
+En el pdf explicamos su uso con un par de comandos en el cmd de Kali Linux.
 
 ##### Criptografía Función Hash
 - Algoritmo (operaciones matemáticas, lógicas,...)
@@ -299,7 +301,8 @@ Ponemos en práctica motrado en el pdf un generador de clave hash para un archiv
 
 ##### Firma Digital
 La firma digital lo que hace es coger los datos y los aplica una función hash. \
-Para generar una firma digital utilizamos la aplicación [Gpg4win](https://gpg4win.org/thanks-for-download.html) donde incorpora la herramiento Kleopatra que es la que utilizaremos.
+Para generar una firma digital utilizamos la aplicación [Gpg4win](https://gpg4win.org/thanks-for-download.html) donde incorpora la herramiento Kleopatra que es la que utilizaremos. \
+Pdf de su funcionamiento. 
 
 
 
