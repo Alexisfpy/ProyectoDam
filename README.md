@@ -251,6 +251,11 @@ Los datos pueden ser CSV, JSON, XML, HTTP, imagen, video, etc…
 
 Se descarga en la página oficial [Apache Nifi](https://nifi.apache.org/download.html)
 
+Pdf incorporado seguimiento prática:
+- Creación flujo sencillo
+- Generar FlowFile
+- Reemplazar datos
+
 ## Criptogrfía Simétrica y Asimétrica en la práctica
 La criptografía son mensajes inteligentes para receptores no autorizados ,si alguien lo intercepta, que no sepa utilizarlo. Garantiza la confidencialidad de la información. \
 Los jeroglíficos fueron los primeros, utilizando el método de sustitución. Cabe destacar la escítala, utilizada por los espartanos con el método de transposición. \
@@ -270,7 +275,7 @@ Desventajas
 
 Utilizamos como práctica la herramienta [Izarc](https://izarc.es/descargar). En el pdf subido mostramos las inctrucciones del uso.
 
-#### Crptografía clave Asimétrica
+#### Criptografía clave Asimétrica
 El receptor y el emisor disponen de una clave pública y otra privada para cifrar/descrifrar el mensaje.
 Clave matemáticamente relacionadas. Lo que cifras con una, solo lo puedes descifrar con la otra. \
 Imposible deducir la clave privada con la pública. \
